@@ -1,24 +1,11 @@
+## 📄 License & Contributions
 
-## 📄 License
+**License**:
+This project is developed and maintained under the spirit of the **Bugs & Glitches** initiative — a collaborative framework encouraging open contributions, ethical AI use, and rapid innovation in public-benefit software.
 
-This project is licensed under the **MIT License**.
+* 🧪 Open to contributors, researchers, and medical technologists
+* 🐛 Issues, bugs, and feature requests can be reported under GitHub Issues
+* 🤝 PRs (Pull Requests) are welcome after discussion via GitHub Discussions or Issues
 
-```
-
----
-
-### ✅ Extras you may want to add:
-
-- `/screenshots/` folder with 2–3 screenshots
-- `frontend/Dockerfile` (basic Node + build + serve with Vite)
-- GitHub repo link (if public)
-- Deployment script or `.env.example`
-
-Let me know if you want me to:
-- Generate actual code for the backend or frontend
-- Help deploy it to **Render**, **Vercel**, or **Railway**
-- Write a landing page for your product  
-- Create a logo or brand assets for “APItrain”  
-
-Would you like those next?
-```
+© 2025 Prathamesh More
+📍 Amravati, India – Made with ❤️ for health, humanity, and technology.
